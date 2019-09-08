@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## CS 3366 - Homework 1 - Elevator Daze
+Kevin D. Torres
 
-You can use the [editor on GitHub](https://github.com/SapphireLion/ElevatorDaze/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Rally Point Charlie - Design Critique
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="images/Emoticons/cool.gif" alt="hi" class="inline"/>
+
+The 
+
 
 ### Markdown
 
