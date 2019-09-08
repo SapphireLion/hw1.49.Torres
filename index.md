@@ -5,7 +5,7 @@ Kevin D. Torres
 
 - **Elevator Chosen:** Resident Elevator - 25Twenty Apartments, Lubbock, TX
 - Image:
-<img src="images/Emoticons/cool.gif" alt="hi" class="inline"/>
+<img src="ElevatorDaze/Image1.jpg" alt="hi" class="inline"/>
 - GIFs:
 - <GIF1>
 - <GIF2>
