@@ -1,11 +1,17 @@
-## CS 3366 - Homework 1 - Elevator Daze
+# CS 3366 - Homework 1 - Elevator Daze
 Kevin D. Torres
 
 ## Rally Point Charlie - Design Critique
 
+Elevator Chosen: Resident Elevator - 25Twenty Apartments, Lubbock, TX
 <img src="images/Emoticons/cool.gif" alt="hi" class="inline"/>
 
-The 
+### Critique
+
+- **Circles**: Which button corresponds to which floor? (Disconnected numbers)
+- **Basic Design**: Black and White design is rather plain.
+- **Uneducated be Damned**: What is the difference between the Bell button and the HELP button? Who does HELP call?
+- **Positives**: Braile on numbering aids the blind.
 
 
 ### Markdown
