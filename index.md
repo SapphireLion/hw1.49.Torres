@@ -3,8 +3,13 @@ Kevin D. Torres
 
 ## Rally Point Charlie - Design Critique
 
-Elevator Chosen: Resident Elevator - 25Twenty Apartments, Lubbock, TX
+- **Elevator Chosen:** Resident Elevator - 25Twenty Apartments, Lubbock, TX
+- Image:
 <img src="images/Emoticons/cool.gif" alt="hi" class="inline"/>
+- GIFs:
+- <GIF1>
+- <GIF2>
+ - <GIF3>
 
 ### Critique
 
