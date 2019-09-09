@@ -7,7 +7,7 @@ Kevin D. Torres
 - Image:
 ![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/Image1.jpg)
 - GIF:
-![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/Gif1.gif)
+![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/Gif1.gif.gif)
 
 ### Critique
 
