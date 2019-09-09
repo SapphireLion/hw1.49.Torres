@@ -16,6 +16,14 @@ Kevin D. Torres
 - **Uneducated be Damned**: What is the difference between the Bell button and the HELP button? Who does HELP call?
 - **Positives**: Braile on numbering aids the blind.
 
+## Rally Point Bravo - Functionality Review
+### Uses for an Elevator Control Panel**:
+- **Go Up and Down** - Yes, but the display could be a bit more clear.
+- **Emergency Services** - Yes, but they are vague
+- **Services for Disabled** - Yes, Braile, but it could be more visible.
+- **Wrong Floor Cancel** - No
+
+
 
 ### Markdown
 
