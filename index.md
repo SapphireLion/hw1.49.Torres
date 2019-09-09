@@ -22,12 +22,13 @@ Kevin D. Torres
 - **Positives**: Braile on numbering aids the blind.
 
 ## Rally Point Bravo - Functionality Review
-### Uses for an Elevator Control Panel**:
+### Uses for an Elevator Control Panel:
 - **Go Up and Down** - Yes, but the display could be a bit more clear.
 - **Emergency Services** - Yes, but they are vague
 - **Services for Disabled** - Yes, Braile, but it could be more visible.
 - **Wrong Floor Cancel** - No
 - **Current Weight on Elevator** - No
+- **Current Floor Display** - No
 
 ### Common Use Cases
 - **Use Case 1: User Enters Elevator**
@@ -38,14 +39,14 @@ User enters elevator, reads display, selects floor they wish to travel towards, 
 
 User has emergency occur during elevator travel, uses emergency button
 
-- **Potential Errors**
+### Potential Errors
 
 Some potential errors could occur if:
-- The user is blind and mis-reads the Braile due to the lettering being too small
-- The user accidentally picks to wrong floor due to matching wrong circle to wrong floor number
-- The user presses the wrong button during an emergency
+- The user is blind and mis-reads the Braile due to the lettering being too small.
+- The user accidentally picks to wrong floor due to matching wrong circle to wrong floor number.
+- The user presses the wrong button during an emergency.
 - The user misjudges their weight and enters an elevator that is too heavy for them to ride on.
-
+- The user does not know what floor they are currently on and picks the wrong floor to go to as a result.
 
 
 ### Markdown
