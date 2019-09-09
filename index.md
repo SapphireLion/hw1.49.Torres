@@ -48,6 +48,14 @@ Some potential errors could occur if:
 - The user misjudges their weight and enters an elevator that is too heavy for them to ride on.
 - The user does not know what floor they are currently on and picks the wrong floor to go to as a result.
 
+### Suggested Improvements
+- Larger Braile lettering
+- Connected numbers to buttons
+- Current Weight Display
+- Clock
+- Disclaimer for HELP button
+- Disclaimer for Bell Button
+- Different Buttons for 9-1-1 call and apartment call 
 
 ### Markdown
 
