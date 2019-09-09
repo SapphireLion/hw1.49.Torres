@@ -3,10 +3,14 @@ Kevin D. Torres
 
 ## Rally Point Charlie - Design Critique
 
-- **Elevator Chosen:** Resident Elevator - 25Twenty Apartments, Lubbock, TX
-- Image:
+### Elevator Chosen:
+**Resident Elevator - 25Twenty Apartments, Lubbock, TX**
+
+### Images
+**Image**:
 ![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/Image1.jpg)
-- GIF:
+
+**GIF:**
 ![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/Gif1.gif.gif)
 
 ### Critique
@@ -22,6 +26,21 @@ Kevin D. Torres
 - **Emergency Services** - Yes, but they are vague
 - **Services for Disabled** - Yes, Braile, but it could be more visible.
 - **Wrong Floor Cancel** - No
+- **Current Weight on Elevator** - No
+
+### Common Use Cases
+- **Use Case 1: User Enters Elevator**
+User enters elevator, reads display, selects floor they wish to travel towards, then waits for elevator doors to close, then travels to corresponding floor
+
+- **Use Case 2: Emergency**
+User has emergency occur during elevator travel, uses emergency button
+
+- **Potential Errors**
+Some potential errors could occur if:
+- The user is blind and mis-reads the Braile due to the lettering being too small
+- The user accidentally picks to wrong floor due to matching wrong circle to wrong floor number
+- The user presses the wrong button during an emergency
+- The user misjudges their weight and enters an elevator that is too heavy for them to ride on.
 
 
 
