@@ -11,6 +11,7 @@ Kevin D. Torres
 ![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/Image1.jpg)
 
 **GIF:**
+
 ![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/Gif1.gif.gif)
 
 ### Critique
@@ -30,12 +31,15 @@ Kevin D. Torres
 
 ### Common Use Cases
 - **Use Case 1: User Enters Elevator**
+
 User enters elevator, reads display, selects floor they wish to travel towards, then waits for elevator doors to close, then travels to corresponding floor
 
 - **Use Case 2: Emergency**
+
 User has emergency occur during elevator travel, uses emergency button
 
 - **Potential Errors**
+
 Some potential errors could occur if:
 - The user is blind and mis-reads the Braile due to the lettering being too small
 - The user accidentally picks to wrong floor due to matching wrong circle to wrong floor number
