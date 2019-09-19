@@ -45,4 +45,4 @@ More colorful vibe - Infinity Gauntley Elevator Panel
 
 ## Rally Point Alpha 
 Working GIF:
-![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/gif_1.gif)
+![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/ig_gif.gif)
