@@ -14,7 +14,7 @@ import java.io.InputStream;
 import java.io.OutputStream; 
 import java.io.IOException; 
 
-public class sketch_190918a extends PApplet {
+public class hw1_49_Torres extends PApplet {
 
 
 PImage img;
@@ -36,7 +36,7 @@ public void setup(){
   
   //Button 2 Loc
   Button2x=165;
-  Button2y=305;
+  Button2y=300;
   
   //Button 3 Loc
   Button3x=225;
@@ -210,7 +210,7 @@ public boolean OverButton(int x, int y, int diameter){
 }
   public void settings() {  size(500,1000); }
   static public void main(String[] passedArgs) {
-    String[] appletArgs = new String[] { "sketch_190918a" };
+    String[] appletArgs = new String[] { "hw1_49_Torres" };
     if (passedArgs != null) {
       PApplet.main(concat(appletArgs, passedArgs));
     } else {

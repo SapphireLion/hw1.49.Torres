@@ -18,7 +18,7 @@ void setup(){
   
   //Button 2 Loc
   Button2x=165;
-  Button2y=305;
+  Button2y=300;
   
   //Button 3 Loc
   Button3x=225;
