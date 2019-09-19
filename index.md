@@ -41,7 +41,7 @@ User has emergency occur during elevator travel, uses emergency button
 
 ### Design
 More colorful vibe - Infinity Gauntley Elevator Panel
-![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/hw1.49.Torres/data/infinity_gauntlet.png)
+![alt text](https://raw.githubusercontent.com/SapphireLion/ElevatorDaze/master/hw1_49_Torres/data/infinity_gauntlet.png)
 
 ## Rally Point Alpha 
 Working GIF:
